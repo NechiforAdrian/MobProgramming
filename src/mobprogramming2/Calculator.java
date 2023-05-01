@@ -10,7 +10,7 @@ public class Calculator {
         double result = 0;
         char operation;
 
-        Scanner scanner = new Scanner(System.in); //crate a objet scanner
+        Scanner scanner = new Scanner(System.in); //create a object scanner
         System.out.println("Enter the first number");
         number1 = scanner.nextDouble();
 

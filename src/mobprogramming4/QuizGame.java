@@ -2,7 +2,7 @@ package mobprogramming4;
 
 import java.util.Scanner;
 
-public class GameLauncher {
+public class QuizGame {
 
     public static final String QUESTION_1 = "Which is the capital of England?";
     public static final String QUESTION_1_ANSWERS = "a.Paris" + "\n" + "b.London" + "\n" + "c.Helsinki";
