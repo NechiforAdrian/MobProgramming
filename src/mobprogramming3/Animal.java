@@ -29,8 +29,6 @@ public class Animal {
     }
 
 
-
-
     public String getAnimalType() {
         return animalType;
     }
