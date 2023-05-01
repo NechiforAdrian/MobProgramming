@@ -8,7 +8,6 @@ public class Animal {
     private int age;
     private int stock;
     private double price;
-
     List<String> dogList;
     List<String> catList;
 
@@ -27,8 +26,7 @@ public class Animal {
     public void setCatList(List<String> catList) {
         this.catList = catList;
     }
-
-
+  
     public String getAnimalType() {
         return animalType;
     }
